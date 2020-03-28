@@ -1,10 +1,10 @@
 # Python Tutorial
 We recommend you to work with Jupyter Notebooks as most of the assignments will be provided in Jupyter Notebooks. Also it recommended to work online using Google Colab, so that you already have access to most of the python packages (i.e. no need to install them).
 
-## Starting the tutorial notebook
+## Starting the python tutorial
 * Open this link [Python_Tutorial](Python_Tutorial.ipynb)
 * Click the **Run in Google Colab** to run it online.
-* Or download it by clickin the **Download notebook** link.
+* Or download it by clicking the **Download notebook** link and save it to your notebook directory.
 
 ## Using Google Colab to run jupyter Notebooks
 * [Get started with Google Colaboratory](https://www.youtube.com/watch?v=inN8seMm7UI)
