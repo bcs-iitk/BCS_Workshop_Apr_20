@@ -6,4 +6,4 @@ This repository contains all the lectures and workshop materials for the worksho
 
 | Topics | Links |
 | ------ | ------ |
-| Machine Learning | [LINK](Machine_Learning/materials.pdf) |
+| Machine Learning | [LINK](Machine_Learning/) |
