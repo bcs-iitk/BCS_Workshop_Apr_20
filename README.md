@@ -7,4 +7,4 @@ This repository contains all the lectures and workshop materials for the worksho
 | Topics | Links |
 | ------ | ------ |
 | Basic Python | [LINK](Python_Tutorial/) |
-| Machine Learning | [LINK](Machine_Learning/) |
+| Machine Learning | [LINK](Machine_Learning/Readme.md) |
