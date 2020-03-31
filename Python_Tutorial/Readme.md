@@ -1,5 +1,5 @@
 # Python Tutorial
-We recommend you to work with Jupyter Notebooks as most of the assignments will be provided in Jupyter Notebooks. Also it recommended to work online using Google Colab, so that you already have access to most of the python packages (i.e. no need to install them).
+We recommend you to work with Jupyter Notebooks as most of the assignments will be provided in Jupyter Notebooks. Also it recommended to work online using Google Colab, so that you already have access to most of the python packages (i.e. no need to install them). If you want to work offline you can but support provided will be less (you need to google yourself) as if we go on solving package issues for everyone it will become very very difficult to complete the workshop on time.
 
 ## Starting the python tutorial
 * Open this link [Python_Tutorial](Python_Tutorial.ipynb)
