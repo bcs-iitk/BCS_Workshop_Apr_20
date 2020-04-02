@@ -10,3 +10,4 @@
 | Machine Learning - II | Transfer Learning - I | [Video](https://www.youtube.com/watch?v=yofjFQddwHE) |
 | Machine Learning - II | Transfer Learning - II | [Video](https://www.youtube.com/watch?v=mPFq5KMxKVw) |
 | Machine Learning - II | Reinforcement Learning | [Video](https://www.youtube.com/watch?v=nZfaHIxDD5w) |
+| Assignment - I | Machine Learning | [Open in Colab](https://colab.research.google.com/github/bcs-iitk/BCS_Workshop_Apr_20/blob/master/Machine_Learning/Assignment/ML.ipynb) |
