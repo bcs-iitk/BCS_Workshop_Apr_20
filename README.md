@@ -15,6 +15,7 @@ The complete schedule of the workshop is [here](https://docs.google.com/spreadsh
 | ------ | ------ |
 | Basic Python | [LINK](Python_Tutorial/Readme.md) |
 | Machine Learning | [LINK](Machine_Learning/Readme.md) |
+| Computational Modeling | [LINK](Computational_Modeling/Readme.md) |
 
 ## References to Lecture Materials and Resources:
 * [Machine Learning Zero to Hero by Laurence Moroney](https://github.com/lmoroney/dlaicourse)
