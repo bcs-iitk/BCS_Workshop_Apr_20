@@ -1,0 +1,22 @@
+l: name
+t: textline
+q: Your name
+- Enter your name
+
+l: roll
+t: textline
+q: Your IITK roll number
+- Enter your IITK roll number
+
+l: email
+t: textline
+q: Your IITK email
+- Enter your IITK email
+
+l: exp_type_1
+t: experiment
+- {fullscreen} visual_search
+
+l: exp_type_2
+t: experiment
+- {fullscreen} visual_search_2

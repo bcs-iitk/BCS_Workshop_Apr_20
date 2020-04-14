@@ -6,3 +6,4 @@
 | Psychophysics and Data Analysis | Statistics and Data analysis | [Video](https://www.youtube.com/watch?v=XbHeCL_8UhA) |
 | Psychophysics and Data Analysis | Psychophysics and Data analysis | [Video](https://www.youtube.com/watch?v=SeXjEDxAFP4) |
 | Psychophysics: Experiment Design | Online Experiment Using PsyToolkit | [Tutorial](https://www.psytoolkit.org/lessons/project.html) |
+| Assignment - III | [Open Github Directory](Assignment) |

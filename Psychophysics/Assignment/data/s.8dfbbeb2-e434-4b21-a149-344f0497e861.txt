@@ -1,0 +1,34 @@
+version: 2.6.1
+server-time: 2020-04-14-07-36
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.162 safari/537.36
+screen_width: 1920
+screen_height: 1080
+html_width: 1492
+html_height: 580
+user_time: Tue, 14 Apr 2020 05:36:13 GMT
+T: 2000
+l: name
+stime: 2020-04-14-07-36
+T: 6544
+t: textline
+a: Shashi
+l: roll
+stime: 2020-04-14-07-36
+T: 5169
+t: textline
+a: 160645
+l: email
+stime: 2020-04-14-07-36
+T: 9089
+t: textline
+a: shashikg@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-14-07-36
+T: 16846
+t: experiment
+l: exp_type_2
+stime: 2020-04-14-07-37
+T: 10900
+t: experiment
+endcode: 
+end 2020-04-14-07-37
