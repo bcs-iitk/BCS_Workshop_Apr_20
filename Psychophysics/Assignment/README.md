@@ -6,6 +6,7 @@ In this assignment you have to create a visual search experiment in PsyToolkit a
 * Use ```create_stimuli_table.ipynb``` to generate the table for PsyToolkit experiment.
 * For all the experiment assigned, only use the type of stimuli from the respective paper and experiment number assigned to you.
 * Generate the target and distractors according to the experiment. Note that you have to only use the 'kind' of stimuli from the paper not their specification (for e.g. image size, number of items in display).
+* You have to perform the experiment only for the target trials i.e. cases in which there is a target present on the screen.
 * Therefore, all the target and distractors should be of size 50px x 50px. You can use ```stimuli.svg``` in inkscape to design it.
 * Use ```survey.txt``` to create the PsyToolkit survey.
 
