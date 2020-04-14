@@ -1,4 +1,4 @@
-## Machine Learning
+## Psychophysics
 
 | Title | Topics | Links |
 | ----- | ------ | ------ |
