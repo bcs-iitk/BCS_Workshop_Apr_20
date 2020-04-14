@@ -1,5 +1,5 @@
 # Assignment 3
-In this assignment you have to create a visual search experiment in PsyToolkit and then analyse the response of different subjects.
+In this assignment you have to create a visual search experiment in PsyToolkit and then analyse the response of different subjects. The assignment is fairly simple as most of the part has been done for you. The main idea behind the assignment is to make you guys familiar with psychophysics experiments.
 
 ## Creating the experiment
 * Use the PsyToolkit template provided in ```visual_search.zip``` to design your experiment.
