@@ -18,7 +18,7 @@ q: Your IITK email
 # Please leave above this as it is ###########
 
 # change below lines according to the number of different experiment types you have to do.
-# note that you will have to create multiple experiments
+# note that you will have to create multiple experiments for different experiment types
 
 l: exp_type_1
 t: experiment
