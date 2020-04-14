@@ -25,3 +25,11 @@ The complete schedule of the workshop is [here](https://docs.google.com/spreadsh
 * [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 * [Simplilearn](https://www.youtube.com/user/Simplilearn)
 * [Introduction to Machine Learning CS771A Autumn 2018](https://www.cse.iitk.ac.in/users/piyush/courses/ml_autumn18/index.html)
+* [Engage Wiki](https://www.youtube.com/channel/UCSaU-C63jLqgXq9Xg3YyM2A)
+* [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g)
+* [Wikipedia](https://en.wikipedia.org/)
+* [Neuronal Dynamics](https://www.youtube.com/channel/UClmOXGbekg0comtuh0d8Oaw)
+* [PsyToolkit](https://www.psytoolkit.org/lessons/)
+
+## License
+Licensed under MIT license. Please reference this github repo if used any of the assignment or lecture material created by Brain and Cognitive Society, IIT Kanpur
