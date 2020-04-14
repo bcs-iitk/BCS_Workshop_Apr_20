@@ -15,3 +15,5 @@ In this assignment you have to create a visual search experiment in PsyToolkit a
 * Each item size have 15 different cases.
 * Also, report the mean, median, mode and variance for each item size.
 * Use ```read_data_helper.ipynb``` to get help on how to read the data from the downloaded data file from PsyToolkit.
+
+**Note:** To download the zip or any other file from github: click on the respective file >> click on download button
